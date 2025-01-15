@@ -21,6 +21,7 @@ public class HookEntry implements IXposedHookLoadPackage, IXposedHookZygoteInit 
             "app.nicegram",
             "xyz.nextalone.nagram",
             "xyz.nextalone.nnngram",
+            "nu.gpu.nagram",
             "com.xtaolabs.pagergram",
             "org.telegram.messenger.web",
             "com.cool2645.nekolite",
@@ -38,11 +39,11 @@ public class HookEntry implements IXposedHookLoadPackage, IXposedHookZygoteInit 
             "icu.ketal.yunigram.lspatch.beta",
             "org.forkgram.messenger",
             "com.blxueya.gugugram",
-        "com.radolyn.ayugram",
+            "com.radolyn.ayugram",
             "com.blxueya.gugugramx",
             "com.evildayz.code.telegraher",
             "com.exteragram.messenger"
-//            "top.qwq2333.nullgram" test only remove it before commit
+//          "top.qwq2333.nullgram" test only remove it before commit
     );
 
 
